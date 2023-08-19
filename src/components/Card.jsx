@@ -6,7 +6,7 @@ import {MdCalendarMonth, MdBrowseGallery, MdAlarmOn} from 'react-icons/md';
 const Card = (props) => {
     return (
         <>
-            <div className='p-1 rounded-md w-full md:w-[900px] mx-auto mr-6 sm:mr-10 font-catamaran my-0'>
+            <div className='p-1 rounded-md w-full md:w-[900px] mx-auto mr-6 sm:mr-10 font-hind my-0'>
                 
                 <div className='md:flex justify-evenly mt-4 shadow-md py-4 bg-slate-200 align-middle md:pr-[170px]'>
                     <div className='font-bold sm:text-2xl ml-4 md:ml-10'>{props.team1} <span className='text-blue-600 '>vs</span> {props.team2}</div>

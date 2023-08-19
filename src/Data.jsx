@@ -6,6 +6,9 @@ const sportsData = [
         { date: '2023-08-21', time: '15:00', team1: 'Real Madrid',  team2: 'ManU', place:'London' },
         { date: '2023-08-20', time: '15:00', team1: 'Man City',  team2: 'FCB', place:'Barcelona' },
         { date: '2023-08-20', time: '15:00', team1: 'Bayern FC',  team2: 'Man City', place:'Madrid' },
+        { date: '2023-08-20', time: '15:00', team1: 'Brazil',  team2: 'Qatar', place:'Sau Paulo' },
+        { date: '2023-08-20', time: '15:00', team1: 'Kuwait',  team2: 'Argentina', place:'Rio' },
+        { date: '2014-07-08', time: '15:00', team1: 'Germany',  team2: 'Brazil', place:'Belo Horizonte' },
 
       ],
     },
@@ -14,9 +17,11 @@ const sportsData = [
         events: [
           { date: '2023-08-20', time: '15:00', team1: 'England',  team2: 'India', place:'London' },
           { date: '2023-08-20', time: '15:00', team1: 'Sri Lanka',  team2: 'West Indies', place:'Sussex' },
-          { date: '2023-08-20', time: '15:00', team1: 'India',  team2: 'Australis', place:'Barcelona' },
+          { date: '2023-08-20', time: '15:00', team1: 'India',  team2: 'Australia', place:'Barcelona' },
           { date: '2023-08-20', time: '15:00', team1: 'RCB',  team2: 'KKR', place:'Ahmedabad' },
-
+          { date: '2023-08-20', time: '15:00', team1: 'Sri Lanka',  team2: 'West Indies', place:'Sussex' },
+          { date: '2023-08-20', time: '15:00', team1: 'KKR',  team2: 'Lucknow', place:'Kolkata' },
+          { date: '2023-08-20', time: '15:00', team1: 'MI',  team2: 'Chennai', place:'Mumbai' },
 
         ],
       },

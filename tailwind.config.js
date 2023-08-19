@@ -8,7 +8,8 @@ export default {
     extend: {
       fontFamily:{
         bebas : ["Bebas Neue", "sans-serif"],
-        catamaran: ["Catamaran", "sans-serif"]
+        catamaran: ["Catamaran", "sans-serif"],
+        hind : ["Hind Madurai", "sans-serif"]
       }
     },
   },
